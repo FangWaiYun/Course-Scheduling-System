@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S "/Users/wuzhehao/Desktop/Course Scheduling System" -B "/Users/wuzhehao/Desktop/Course Scheduling System/cmake-build-debug"
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.28 or higher is required.  You are running version 3.27.8
+
+
+-- Configuring incomplete, errors occurred!
